@@ -1,0 +1,3109 @@
+[
+  {
+    "name": "baka",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles `baka` al chat, dirigido al usuario mencionado, si lo hay. Generalmente se interpreta como 「El usuario al que se dirige este comando es un idiota (en un contexto kawaii)」.",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "baka @user"
+    ]
+  },
+  {
+    "name": "blush",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Se sonroja ante un usuario.",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "blush @user"
+    ]
+  },
+  {
+    "name": "cry",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles \"llorar\" al chat. Generalmente se interpreta como 「El usuario que usó este comando está llorando」. Úselo para indicar que actualmente está llorando. Puede usarse en un contexto similar al emoji 😢.",
+    "parameters": [],
+    "examples": [
+      "cry"
+    ]
+  },
+  {
+    "name": "dance",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles \"dance\" al chat. Generalmente se interpreta como 「El usuario que usó este comando está bailando (con alegría)」. Úselo para indicar que está bailando actualmente (el contexto puede variar).",
+    "parameters": [],
+    "examples": [
+      "dance"
+    ]
+  },
+  {
+    "name": "disgust",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles \"disgusto\" al chat, dirigido al usuario mencionado, si lo hay. Normalmente se interpreta como 「El usuario al que se dirige este comando está cavando (¡¡Mazui !!, ¡¡Kimoi !!)」. Úselo para indicar que está disgustado por sus (ideas sobre sus) conversaciones anteriores. Puede usarse en un contexto similar al emoji 🤮.",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "disgust @user"
+    ]
+  },
+  {
+    "name": "feed",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles al chat, dirigido al usuario mencionado, si lo hay. Generalmente se interpreta como 「El usuario al que se dirige este comando ha sido alimentado」. Úselo para indicar que desea alimentar al usuario.",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "feed @user"
+    ]
+  },
+  {
+    "name": "happy",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles \"feliz\" al chat. Generalmente se interpreta como 「El usuario que usó este comando está contento (¡¡shiawase da !!)」. Úselo para indicar que actualmente está feliz (el contexto puede variar). Puede usarse en un contexto similar al emoji 😃.",
+    "parameters": [],
+    "examples": [
+      "happy"
+    ]
+  },
+  {
+    "name": "holdhands",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Toma de la mano a alguien especial.",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "holdhands @user"
+    ]
+  },
+  {
+    "name": "hug",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles `hug` al chat, dirigido al usuario mencionado, si lo hay. Generalmente se interpreta como 「El usuario al que se dirige este comando ha sido abrazado」. Úselo para indicar que desea o desea abrazar al usuario mencionado (el contexto puede variar). Puede usarse en un contexto similar al emoji 🤗.",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "hug @user"
+    ]
+  },
+  {
+    "name": "kill",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles \"kill\" al chat, dirigido al usuario mencionado, si lo hay. Generalmente se interpreta como 「El usuario que usó este comando quiere matar al usuario mencionado」. Úselo para indicar que desea / desea matar al usuario mencionado (el contexto puede variar). Este es un comando de juego de roles y está destinado a usarse como una broma, sin embargo, esto se limitará a un canal nsfw debido a la naturaleza sensible de este comando. El contexto no debe incluir delitos reales.",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "kill @user"
+    ]
+  },
+  {
+    "name": "kiss",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles `kiss` al chat, dirigido al usuario mencionado, si lo hay. Generalmente se interpreta como 「El usuario al que se dirige este comando ha sido besado」. Úselo para indicar que desea o desea besar al usuario mencionado (el contexto puede variar). Puede usarse en un contexto similar al emoji 😘.",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "kiss @user"
+    ]
+  },
+  {
+    "name": "lick",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles `lick` al chat, dirigido al usuario mencionado, si lo hay. Generalmente se interpreta como 「El usuario al que se dirige este comando ha sido lamido (lero lero lero lero lero)」. Úselo para indicar que desea o desea lamer al usuario mencionado (el contexto puede variar).",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "lick @user"
+    ]
+  },
+  {
+    "name": "midfing",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles `midfing` al chat, dirigido al usuario mencionado, si lo hay. Generalmente se interpreta como 「El usuario que usó este comando quiere que el usuario mencionado se desactive」. Úselo para indicar que el usuario le molesta (el contexto puede variar). Este es un comando de juego de roles y está destinado a usarse como una broma, sin embargo, esto se limitará a un canal nsfw debido a la naturaleza sensible de este comando.",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "midfing @user"
+    ]
+  },
+  {
+    "name": "pat",
+    "aliases": [
+      "headpat"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles `pat` al chat, dirigido al usuario mencionado, si hay alguno. Generalmente se interpreta como 「El usuario le dio un golpe en la cabeza al usuario mencionado」. Úselo para indicar que desea o desea darle una palmada al usuario mencionado (el contexto puede variar).",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "pat @user"
+    ]
+  },
+  {
+    "name": "poke",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles `poke` al chat, dirigido al usuario mencionado, si lo hay. Por lo general, se interpreta como user El usuario mencionado te ignora, por lo que los pinchas 」. Úselo para indicar que necesita la atención del usuario mencionado (el contexto puede variar).",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "poke @user"
+    ]
+  },
+  {
+    "name": "slap",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles `slap` al chat, dirigido al usuario mencionado, si hay alguno. Generalmente se interpreta como 「El usuario al que se dirige este comando ha recibido una bofetada」. Úselo para indicar que desea o desea abofetear al usuario mencionado (el contexto puede variar).",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "slap @user"
+    ]
+  },
+  {
+    "name": "sleep",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Pone a un usuario a dormir..",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "hug @user"
+    ]
+  },
+  {
+    "name": "smile",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Sonríe a un usuario.",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "smile @user"
+    ]
+  },
+  {
+    "name": "smug",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles \"petulante\" al chat. Generalmente se interpreta como 「El usuario que usó este comando se burla en el chat anterior」. Úselo para indicar que siente el motivo oculto que el usuario anterior envió en el chat.",
+    "parameters": [],
+    "examples": [
+      "smug"
+    ]
+  },
+  {
+    "name": "suicide",
+    "aliases": [
+      "kms"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles \"suicidio\" al chat. Generalmente se interpreta como 「El usuario que usó este comando quiere suicidarse (en broma)」. Úselo para indicar que está aturdido por los chats del usuario anterior que le dan ganas de kys. Este es un comando de juego de roles y está destinado a usarse como una broma, sin embargo, esto se limitará a un canal nsfw debido a la naturaleza sensible de este comando. El contexto no debe incluir delitos reales.",
+    "parameters": [],
+    "examples": [
+      "suicide",
+      "kms"
+    ]
+  },
+  {
+    "name": "tickle",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Envía un gif de juego de roles `tickle` al chat, dirigido al usuario mencionado, si lo hay. Por lo general, se interpreta como 「El usuario al que se dirige este comando se le ha hecho cosquillas」. Úselo para indicar que le hizo cosquillas al usuario mencionado (el contexto puede variar).",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "tickle @user"
+    ]
+  },
+  {
+    "name": "wave",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Saluda a alguien.",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "wave @user"
+    ]
+  },
+  {
+    "name": "wink",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "action",
+    "description": "Guiño a un usuario.",
+    "parameters": [
+      "Mención de usuario"
+    ],
+    "examples": [
+      "wink @user"
+    ]
+  },
+  {
+    "name": "alprofile",
+    "aliases": [
+      "al-of",
+      "alof",
+      "alstat",
+      "aluser"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "anime",
+    "description": "Encuentra el perfil de usuario en [Anilist](https://anilist.co) según la consulta proporcionada.",
+    "parameters": [
+      "Nombre de usuario de Anilist"
+    ],
+    "examples": [
+      "alprofile",
+      "al-of sakurajiTsukasa",
+      "alof sakurajiTsukasa",
+      "alstat sakurajiTsukasa",
+      "aluser sakurajiTsukasa"
+    ]
+  },
+  {
+    "name": "anime",
+    "aliases": [
+      "ani",
+      "as",
+      "anisearch"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "anime",
+    "description": "Busca un anime específico en [MyAnimeList](https://myanimelist.net \"Página de inicio\"), o muestra la información de la serie de anime de Tsukasa si no se proporciona ninguna consulta.",
+    "parameters": [
+      "Consulta de busqueda"
+    ],
+    "examples": [
+      "anime",
+      "as seishun buta yarou",
+      "ani aobuta",
+      "anisearch bunnygirl senpai"
+    ]
+  },
+  {
+    "name": "animeme",
+    "aliases": [
+      "ameme",
+      "animememe",
+      "animemes",
+      "animememes",
+      "amemes"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "anime",
+    "description": "Genere un meme de anime obtenido de [Subreddits] seleccionados (https://reddit.com \"Página de inicio\"). Incluya el parámetro `reload` para recargar la caché de memes. Los memes generados están en orden por defecto, agregue `r`,` random` o `randomize` para aleatorizar el meme.",
+    "parameters": [
+      "Recargar etiqueta",
+      "Etiqueta de aleatorización"
+    ],
+    "examples": [
+      "animeme",
+      "ameme reload",
+      "animeme random",
+      "animemes reload",
+      "amemes"
+    ]
+  },
+  {
+    "name": "aniquote",
+    "aliases": [
+      "aq",
+      "animequote"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "anime",
+    "description": "Genera una cita de anime aleatoria.",
+    "parameters": [],
+    "examples": [
+      "aniquote",
+      "aq",
+      "animequote"
+    ]
+  },
+  {
+    "name": "anirandom",
+    "aliases": [
+      "anirand",
+      "anirecommend"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "anime",
+    "description": "Genera una recomendación de anime aleatoria. Recomienda un Hentai si se usa en un canal nsfw.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "anirandom",
+      "anirand",
+      "anirecommend"
+    ]
+  },
+  {
+    "name": "character",
+    "aliases": [
+      "anichar",
+      "char",
+      "c"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "anime",
+    "description": "Busca un carácter en [MyAnimeList](https://myanimelist.net \"Página de inicio\"), o la información del carácter de Tsukasa si no se proporciona ninguna consulta.",
+    "parameters": [
+      "Consulta de busqueda"
+    ],
+    "examples": [
+      "character",
+      "anichar Tsukasa",
+      "anichar Sakuta Azusagawa",
+      "char Rio Futaba",
+      "c Kaede Azusagawa"
+    ]
+  },
+  {
+    "name": "discover",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "USE_EXTERNAL_EMOJIS",
+      "ADD_REACTIONS"
+    ],
+    "group": "anime",
+    "description": "Genere un conjunto de recomendaciones de <Anime / Manga> cuidadosamente seleccionadas para un usuario.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "discover anime",
+      "discover manga"
+    ]
+  },
+  {
+    "name": "hanime",
+    "aliases": [
+      "searchhentai",
+      "hanisearch",
+      "hs"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "MANAGE_MESSAGES"
+    ],
+    "group": "anime",
+    "description": "Consulta a hanime.tv para un hentai específico. Devuelve un máximo de 10 resultados.",
+    "parameters": [
+      "Consulta de busqueda"
+    ],
+    "examples": [
+      "hanime saimin seishidou",
+      "searchhentai mankitsu happening",
+      "hanisearch dropout",
+      "hs tamashii insert"
+    ]
+  },
+  {
+    "name": "malprofile",
+    "aliases": [
+      "mal-of",
+      "malof",
+      "malstat",
+      "maluser"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "anime",
+    "description": "Encuentra el perfil de usuario en myanimelist según la consulta proporcionada.",
+    "parameters": [
+      "Nombre de usuario de Myanimelist"
+    ],
+    "examples": [
+      "malprofile sakurajiTsukasa-san",
+      "mal-of sakurajiTsukasa-san",
+      "malof sakurajiTsukasa-san",
+      "malstat sakurajiTsukasa-san",
+      "maluser sakurajiTsukasa-san"
+    ]
+  },
+  {
+    "name": "manga",
+    "aliases": [
+      "comic",
+      "manhwa",
+      "manhua"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "USE_EXTERNAL_EMOJIS",
+      "ADD_REACTIONS"
+    ],
+    "group": "anime",
+    "description": "Busca un Manga / Manhwa / Manhua en [MyAnimeList](https://myanimelist.net.co \"Página de inicio\"), o muestra Seishun Buta Yarou si no se proporciona ninguna consulta.",
+    "parameters": [
+      "Consulta de busqueda"
+    ],
+    "examples": [
+      "manga",
+      "comic rascal does not dream",
+      "manhwa solo leveling",
+      "manhua king's avatar"
+    ]
+  },
+  {
+    "name": "mangarandom",
+    "aliases": [
+      "mangarand"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "anime",
+    "description": "Genera una recomendación de manga aleatoria. Recomienda un Hentai si se usa en un canal nsfw.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "mangarandom",
+      "mangarand"
+    ]
+  },
+  {
+    "name": "nextairdate",
+    "aliases": [
+      "nextairing",
+      "nextair",
+      "nextep",
+      "nextepisode"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "anime",
+    "description": "Muestra el tiempo restante para el próximo episodio del anime dado. Devuelve el horario de este día, si no se especifica ningún anime",
+    "parameters": [
+      "Search Query"
+    ],
+    "examples": [
+      "nextairdate",
+      "nextair boruto",
+      "nextairing black clover",
+      "nextep attack on titan",
+      "nextepisode tensura"
+    ]
+  },
+  {
+    "name": "sauce",
+    "aliases": [
+      "gimmesauce",
+      "finddoujin",
+      "doujin",
+      "nhentai",
+      "saucefor"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "anime",
+    "description": "Fetch doujin información de [nHentai](https://nhentai.net \"nHentai Homepage\")",
+    "parameters": [
+      "ID de medios"
+    ],
+    "examples": [
+      "sauce 263492",
+      "gimmesauce 166258",
+      "finddoujin 177013",
+      "doujin 245212",
+      "nhentai 337864",
+      "saucefor 337879"
+    ]
+  },
+  {
+    "name": "schedule",
+    "aliases": [
+      "anitoday",
+      "airinglist",
+      "airing"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS",
+      "USE_EXTERNAL_EMOJIS"
+    ],
+    "group": "anime",
+    "description": "Muestra la lista de anime que se transmite actualmente para la fecha de hoy o el día de la semana determinado.",
+    "parameters": [
+      "Día laborable"
+    ],
+    "examples": [
+      "schedule monday",
+      "anitoday",
+      "airinglist sunday",
+      "airing saturday"
+    ]
+  },
+  {
+    "name": "seiyuu",
+    "aliases": [
+      "voice",
+      "va"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "anime",
+    "description": "¡Busque seiyuu en sus personajes de anime favoritos, o seiyuu de Tsukasa si no se proporciona ninguna consulta!",
+    "parameters": [
+      "consulta de busqueda"
+    ],
+    "examples": [
+      "seiyuu",
+      "voice amamiya sora",
+      "va yuuki kaji"
+    ]
+  },
+  {
+    "name": "top",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "anime",
+    "description": "Muestra el mejor anime (\\ 🛠️ actualmente roto)",
+    "parameters": [
+      "rango o rango ",
+      " tipo ",
+      " subtipo "
+    ],
+    "examples": [
+      "top"
+    ]
+  },
+  {
+    "name": "upcoming",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS",
+      "USE_EXTERNAL_EMOJIS"
+    ],
+    "group": "anime",
+    "description": "Muestra la lista de los próximos animes.",
+    "parameters": [
+      "Tipo de medios de anime"
+    ],
+    "examples": [
+      "upcoming",
+      "upcoming tv",
+      "upcoming ona",
+      "upcoming ova",
+      "upcoming movie",
+      "upcoming special",
+      "upcoming -"
+    ]
+  },
+  {
+    "name": "waifu",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ATTACH_FILES",
+      "READ_MESSAGE_HISTORY"
+    ],
+    "group": "anime",
+    "description": "Generates random waifu.",
+    "parameters": [],
+    "examples": [
+      "waifu"
+    ]
+  },
+  {
+    "name": "feedback",
+    "aliases": [],
+    "clientPermissions": [],
+    "group": "bot",
+    "description": "Envía un mensaje de soporte al propietario de este bot (ThePowerP_98#0209)",
+    "parameters": [
+      "Mensaje de retroalimentación"
+    ],
+    "examples": [
+      "feedback this command is not working bla bla.."
+    ]
+  },
+  {
+    "name": "invite",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "bot",
+    "description": "Te da el enlace de invitación",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "invite"
+    ]
+  },
+  {
+    "name": "ping",
+    "aliases": [
+      "latency"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "bot",
+    "description": "Muestra varios pings a los que está conectado este bot.",
+    "parameters": [],
+    "examples": [
+      "ping",
+      "latency"
+    ]
+  },
+  {
+    "name": "stats",
+    "aliases": [
+      "status",
+      "botstatus"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ATTACH_FILES"
+    ],
+    "group": "bot",
+    "description": "Muestra el estado de la instancia de bot actual.",
+    "parameters": [],
+    "examples": [
+      "stats",
+      "status",
+      "botstatus"
+    ]
+  },
+  {
+    "name": "commands",
+    "aliases": [
+      "cmd",
+      "command"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "core",
+    "description": "Envía una lista de todos los comandos de cada grupo de comandos específico",
+    "parameters": [],
+    "examples": [
+      "commands",
+      "cmd",
+      "command"
+    ]
+  },
+  {
+    "name": "help",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "core",
+    "description": "Displays basic information or a help for a command.",
+    "parameters": [
+      "Command Name/Alias"
+    ],
+    "examples": [
+      "help anirand",
+      "help watching",
+      "help register"
+    ]
+  },
+  {
+    "name": "suggest",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ADD_REACTIONS"
+    ],
+    "group": "core",
+    "description": "Sugiera algo para el servidor. Si tiene alguna sugerencia para el bot, use el comando de comentarios o únase a nuestro servidor de soporte",
+    "parameters": [
+      "Mensaje de sugerencia"
+    ],
+    "examples": [
+      "suggest please remove some of the inactive members..."
+    ]
+  },
+  {
+    "name": "aes",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fortnite",
+    "description": "Recuperar claves maestras y archivos PAK dinámicos (filtradores).",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "aes"
+    ]
+  },
+  {
+    "name": "favance",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ATTACH_FILES"
+    ],
+    "group": "fortnite",
+    "description": "Muestra cuanto tiempo queda para que termine la temporada actual de fortnite.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "favance"
+    ]
+  },
+  {
+    "name": "blog",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fortnite",
+    "description": "Muestra dinámicamente los últimos 5 blogs oficiales de Fortnite.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "blog"
+    ]
+  },
+  {
+    "name": "cosmetics",
+    "aliases": [
+      "cos"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ATTACH_FILES"
+    ],
+    "group": "fortite",
+    "description": "Te permite buscar cosméticos de Battle Royale (en imagen)",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "cosmetics thanos"
+    ]
+  },
+  {
+    "name": "festado",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fortnite",
+    "description": "Muestra el estado actual del servidor de epic.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "festado"
+    ]
+  },
+  {
+    "name": "export",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ATTACH_FILES"
+    ],
+    "group": "fortnite",
+    "description": "Exporta la imagen de un cosmetico a tu eleccion.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "export deriva"
+    ]
+  },
+  {
+    "name": "fsearch",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fortnite",
+    "description": "Busca información de cualquiercosmetico.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "fsearch midas"
+    ]
+  },
+  {
+    "name": "fleaks",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fortnite",
+    "description": "Mira los ultimos cosmeticos filtrados.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "fleaks"
+    ]
+  },
+  {
+    "name": "noticias",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ATTACH_FILES"
+    ],
+    "group": "fortnite",
+    "description": "Ver las ultimas noticias del Modo STW | BR | creative",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "noticias br",
+      "noticias stw",
+      "noticias creative"
+    ]
+  },
+  {
+    "name": "fpescados",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fortnite",
+    "description": "Ver los peces disponibles en el juego, y obtener informacion sobre ellos.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "fpescados",
+      "fpescados pescado sorbete"
+    ]
+  },
+  {
+    "name": "fset",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ATTACH_FILES"
+    ],
+    "group": "fortnite",
+    "description": "Exporta una imagen de un set completo.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "fset black widow",
+      "fset deriva",
+      "fset espectro dorado"
+    ]
+  },
+  {
+    "name": "stats",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ATTACH_FILES"
+    ],
+    "group": "fortnite",
+    "description": "Comprueba tus estadisticas del juego.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "stats ThePowerP_98"
+    ]
+  },
+  {
+    "name": "ftienda",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "ATTACH_FILES"
+    ],
+    "group": "fortnite",
+    "description": "Mira los articulos disponibles en la tienda de fortnite.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "ftienda"
+    ]
+  },
+  {
+    "name": "ftienda2",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "ATTACH_FILES",
+      "EMBED_LINKS"
+    ],
+    "group": "fortnite",
+    "description": "Mira los articulos disponibles en la tienda de fortnite en un diseño mas simple.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "ftienda2"
+    ]
+  },
+  {
+    "name": "8ball",
+    "aliases": [
+      "🎱",
+      "8b",
+      "8-ball",
+      "eightball"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "fun",
+    "description": "Pregunta cualquier cosa en la bola mágica 8",
+    "parameters": [
+      "Pregunta respondible con Sí / No"
+    ],
+    "examples": [
+      "8ball is Tsukasa a good bot?",
+      "🎱 is FMA worth of it's top spot?",
+      "8b is BNHA good",
+      "8-ball Do you want to play Among us?",
+      "eightball Have you been in a tight spot before?"
+    ]
+  },
+  {
+    "name": "advice",
+    "aliases": [
+      "tips",
+      "advise"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fun",
+    "description": "Genera un consejo inútil al azar",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "advice",
+      "tips",
+      "advise"
+    ]
+  },
+  {
+    "name": "birdfacts",
+    "aliases": [
+      "birdfact",
+      "tori",
+      "bird"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fun",
+    "description": "Generar datos de aves inútiles al azar",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "birdfacts",
+      "birdfact",
+      "tori",
+      "bird"
+    ]
+  },
+  {
+    "name": "catfacts",
+    "aliases": [
+      "catfact",
+      "neko",
+      "cf"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fun",
+    "description": "Generar datos aleatorios sobre gatos inútiles",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "catfacts",
+      "catfact",
+      "neko",
+      "cf"
+    ]
+  },
+  {
+    "name": "comment",
+    "aliases": [],
+    "clientPermissions": [
+      "ATTACH_FILES"
+    ],
+    "group": "fun",
+    "description": "Comenta algo y devuelve un comentario similar a youtube",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "comment I never thought this would be the effect."
+    ]
+  },
+  {
+    "name": "dogfacts",
+    "aliases": [
+      "dogfact",
+      "inu",
+      "df"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fun",
+    "description": "Genere un perro inútil al azar hechos",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "dogfacts",
+      "dogfact",
+      "inu",
+      "df"
+    ]
+  },
+  {
+    "name": "flip",
+    "aliases": [
+      "coinflip",
+      "coin",
+      "tosscoin",
+      "tc"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "fun",
+    "description": "Gana o pierde, lanza una moneda [cara o cruz]",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "flip head",
+      "coinflip tail"
+    ]
+  },
+  {
+    "name": "fortune",
+    "aliases": [
+      "ft",
+      "fortunecookies",
+      "fortunecookie"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fun",
+    "description": "Genera una fortuna aleatoria",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "fortune",
+      "ft",
+      "fortunecookies",
+      "fortunecookie"
+    ]
+  },
+  {
+    "name": "horoscope",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fun",
+    "description": "¡Descubre tu horóscopo de hoy!",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "horoscope libra",
+      "horoscope sagittarius"
+    ]
+  },
+  {
+    "name": "invert",
+    "aliases": [],
+    "clientPermissions": [
+      "ATTACH_FILES"
+    ],
+    "group": "fun",
+    "description": "Invertir los colores en el avatar del usuario",
+    "parameters": [
+      "ID de usuario",
+      "Mención de usuario"
+    ],
+    "examples": [
+      "invert @user",
+      "invert 721612345678987654456"
+    ]
+  },
+  {
+    "name": "joke",
+    "aliases": [
+      "haha"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fun",
+    "description": "Genera una broma aleatoria a partir de una API de broma",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "joke",
+      "haha"
+    ]
+  },
+  {
+    "name": "meme",
+    "aliases": [
+      "humorme"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fun",
+    "description": "Genera un meme aleatorio a partir de un subreddit seleccionado.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "meme",
+      "humorme"
+    ]
+  },
+  {
+    "name": "pandafacts",
+    "aliases": [
+      "pandafact",
+      "pf"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fun",
+    "description": "Generar un pandaa inútil aleatorio hechos",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "pandafacts",
+      "pandafact",
+      "pf"
+    ]
+  },
+  {
+    "name": "pokemon",
+    "aliases": [
+      "pokedex",
+      "pokémon",
+      "pokédex"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fun",
+    "description": "Encuentra un pokemon específico usando la pokédex, o pikachu si no se proporciona ninguna consulta.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "pokemon",
+      "pokedex pikachu",
+      "pokémon clefairy",
+      "pokédex jigglypuff"
+    ]
+  },
+  {
+    "name": "rate",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "fun",
+    "description": "Califica el argumento proporcionado",
+    "parameters": [
+      "algo para calificar"
+    ],
+    "examples": [
+      "rate Potato",
+      "rate cheese",
+      "rate Bringles"
+    ]
+  },
+  {
+    "name": "respect",
+    "aliases": [
+      "f",
+      "rp",
+      "+rp"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "fun",
+    "description": "Muestre su respeto. Acepta argumentos.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "respect",
+      "f Kyoto Animation",
+      "rp @user"
+    ]
+  },
+  {
+    "name": "reverse",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "fun",
+    "description": "Invierte el texto proporcionado",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "reverse This text will be reversed."
+    ]
+  },
+  {
+    "name": "roll",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "fun",
+    "description": "Genere un número aleatorio del 1 al [número seleccionado]",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "roll 10",
+      "roll 100",
+      "roll 1234567"
+    ]
+  },
+  {
+    "name": "triggered",
+    "aliases": [],
+    "clientPermissions": [
+      "ATTACH_FILES"
+    ],
+    "group": "fun",
+    "description": "Usuarios activados",
+    "parameters": [
+      "ID de usuario",
+      "Mención de usuario"
+    ],
+    "examples": [
+      "triggered @user",
+      "triggered 78213712536152371"
+    ]
+  },
+  {
+    "name": "ass",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Genera una imagen de un trasero de una chica hentai",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "ass"
+    ]
+  },
+  {
+    "name": "creampie",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Manda una imagen hentai viniendose dentro de la vagina.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "creampie"
+    ]
+  },
+  {
+    "name": "ero",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Manda una imagen hentai.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "ero"
+    ]
+  },
+  {
+    "name": "erokemo",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Genera una imagen ecchi",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "erokemo"
+    ]
+  },
+  {
+    "name": "glasses",
+    "aliases": [
+      "hg"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Manda una imagen hentai de una chica con lentes.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "glasses"
+    ]
+  },
+  {
+    "name": "gif",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Manda un gif hentai.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "gif"
+    ]
+  },
+  {
+    "name": "hentai",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Genera una imagen random hentai.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "hentai"
+    ]
+  },
+  {
+    "name": "kitsune",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Genera una imagen henati kawai.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "kitsune"
+    ]
+  },
+  {
+    "name": "lesbian",
+    "aliases": [
+      "lesbianas"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "MESSAGE_ATT"
+    ],
+    "group": "hentai",
+    "description": "Manda una imagen de unas lesbianas.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "lesbian"
+    ]
+  },
+  {
+    "name": "lewd",
+    "aliases": [
+      "hcat"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Genera una imagen hentaia vestidas de animales",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "lewd"
+    ]
+  },
+  {
+    "name": "midriff",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Genera una imagen cachonda de anime",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "midriff"
+    ]
+  },
+  {
+    "name": "feet",
+    "aliases": [
+      "hpies",
+      "hpatas"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Genera una imagen de unos pies de anime.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "feet"
+    ]
+  },
+  {
+    "name": "pussy",
+    "aliases": [
+      "vagina"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Genera una imagen de una vagina de anime.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "pussy"
+    ]
+  },
+  {
+    "name": "tits",
+    "aliases": [
+      "tetas",
+      "bobs"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Genera una imagen de unas tetas de anime.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "tits"
+    ]
+  },
+  {
+    "name": "pantsu",
+    "aliases": [
+      "panties",
+      "tanga"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Manda una imagen hentai de panties.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "panties",
+      "tanga",
+      "pantsu"
+    ]
+  },
+  {
+    "name": "public",
+    "aliases": [
+      "public"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Manda una imagen hentai en publico.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "public",
+      "publico"
+    ]
+  },
+  {
+    "name": "r34",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ATTACH_FILES"
+    ],
+    "group": "hentai",
+    "description": "Busca una img pornografica de tu personaje favorito, de tu videojuego favorito o de tu serie o pelicula favorita",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "r34 rias gremory",
+      "r34 naruto",
+      "r34 overwatch"
+    ]
+  },
+  {
+    "name": "solo",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Genera una imagen de una chica anime.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "solo"
+    ]
+  },
+  {
+    "name": "thigh",
+    "aliases": "Sin alias",
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "hentai",
+    "description": "Genera una imagen de muslos de anime",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "thigh"
+    ]
+  },
+  {
+    "name": "addemoji",
+    "aliases": [],
+    "clientPermissions": [
+      "MANAGE_EMOJIS"
+    ],
+    "group": "moderation",
+    "description": "Agregue un emoji al servidor usando la URL y el nombre de la imagen proporcionados (opcional)",
+    "parameters": [
+      "URL de la imagen",
+      "Nombre de emoji"
+    ],
+    "examples": [
+      "addemoji https://some-url/path-to-image.format emojiname"
+    ]
+  },
+  {
+    "name": "addroles",
+    "aliases": [
+      "addrole"
+    ],
+    "clientPermissions": [
+      "MANAGE_ROLES"
+    ],
+    "group": "moderation",
+    "description": "Agrega los roles mencionados y / o los ID de rol proporcionados al usuario mencionado",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "addroles @user @role1 @role2 @role3",
+      "addrole @user @role"
+    ]
+  },
+  {
+    "name": "ban",
+    "aliases": [],
+    "clientPermissions": [
+      "BAN_MEMBERS"
+    ],
+    "group": "moderation",
+    "description": "Prohibir al usuario mencionado de este servidor.",
+    "parameters": [
+      "Mención del usuario | ID",
+      "Motivo de expulsión"
+    ],
+    "examples": [
+      "ban @user breaking server rules",
+      "ban @user",
+      "ban 7827342137832612783"
+    ]
+  },
+  {
+    "name": "clear",
+    "aliases": [
+      "delete",
+      "slowprune",
+      "sd",
+      "slowdelete"
+    ],
+    "clientPermissions": [
+      "MANAGE_MESSAGES",
+      "EMBED_LINKS"
+    ],
+    "group": "moderation",
+    "description": "Eliminar mensajes de este canal. No eliminará mensajes de más de dos (2) semanas.",
+    "parameters": [
+      "Cantidad de mensaje"
+    ],
+    "examples": [
+      "clear 10",
+      "delete 99",
+      "slowprune 50"
+    ]
+  },
+  {
+    "name": "hackban",
+    "aliases": [],
+    "clientPermissions": [
+      "BAN_MEMBERS"
+    ],
+    "group": "moderation",
+    "description": "banea a un usuario incluso si no está en el servidor.",
+    "parameters": [
+      "ID de usuario",
+      "Motivo de expulsión"
+    ],
+    "examples": [
+      "hackban 7823713678123123123",
+      "hackban 2345678765423567817 not following discord tos"
+    ]
+  },
+  {
+    "name": "kick",
+    "aliases": [],
+    "clientPermissions": [
+      "KICK_MEMBERS"
+    ],
+    "group": "moderation",
+    "description": "Expulsar al usuario mencionado de este servidor.",
+    "parameters": [
+      "Mención de usuario | ID",
+      "Razón de la patada"
+    ],
+    "examples": [
+      "kick @user breaking server rules",
+      "kick @user",
+      "kick 7827342137832612783"
+    ]
+  },
+  {
+    "name": "lockdown",
+    "aliases": [
+      "lock",
+      "ld",
+      "lockchannel"
+    ],
+    "clientPermissions": [
+      "MANAGE_CHANNELS"
+    ],
+    "group": "moderation",
+    "description": "[Impedir / Permitir] que los usuarios envíen mensajes en el canal actual. Se perderán las sobrescrituras de permisos.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "lockdown",
+      "lock",
+      "ld",
+      "lockchannel"
+    ]
+  },
+  {
+    "name": "mute",
+    "aliases": [
+      "deafen",
+      "silence",
+      "shut"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "moderation",
+    "description": "Impide que un usuario envíe un mensaje en este servidor",
+    "parameters": [
+      "Mención de usuario | ID"
+    ],
+    "examples": [
+      "mute @user",
+      "mute 798213718237181231"
+    ]
+  },
+  {
+    "name": "nuke",
+    "aliases": [
+      "clearall"
+    ],
+    "clientPermissions": [
+      "MANAGE_CHANNELS"
+    ],
+    "group": "moderation",
+    "description": "Elimina todos los mensajes del canal (elimina el canal anterior y hace una copia con los permisos intactos)",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "nuke",
+      "clearall"
+    ]
+  },
+  {
+    "name": "resetchannel",
+    "aliases": [
+      "resetch"
+    ],
+    "clientPermissions": [
+      "MANAGE_CHANNELS"
+    ],
+    "group": "moderation",
+    "description": "Elimina todas las sobrescrituras de permisos y restablece los permisos de @todos a `unset `",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "resetchannel",
+      "resetch"
+    ]
+  },
+  {
+    "name": "resetroles",
+    "aliases": [
+      "resetrole",
+      "removeroles",
+      "removerole",
+      "purgerole"
+    ],
+    "clientPermissions": [
+      "MANAGE_ROLES"
+    ],
+    "group": "moderation",
+    "description": "Elimina ** todos ** los roles personalizados de un usuario. (@todos serán excluidos)",
+    "parameters": [
+      "Mención de usuario | ID"
+    ],
+    "examples": [
+      "resetroles @user",
+      "resetrole 7283746571920016374"
+    ]
+  },
+  {
+    "name": "respond",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "moderation",
+    "description": "Responder a la sugerencia del usuario",
+    "parameters": [
+      "ID de mensaje",
+      "accept/deny",
+      "razón"
+    ],
+    "examples": [
+      "respond 690105173087223812 deny Doesn't make much sense to do this"
+    ]
+  },
+  {
+    "name": "softban",
+    "aliases": [],
+    "clientPermissions": [
+      "BAN_MEMBERS"
+    ],
+    "group": "moderation",
+    "description": "Expulsa a un usuario y borra todos sus mensajes en los últimos 7 días",
+    "parameters": [
+      "mención / identificación del usuario"
+    ],
+    "examples": [
+      "softban @user",
+      "softban 7283746574829102938"
+    ]
+  },
+  {
+    "name": "softlockdown",
+    "aliases": [
+      "softlock",
+      "softld",
+      "softlockchannel"
+    ],
+    "clientPermissions": [
+      "MANAGE_CHANNELS"
+    ],
+    "group": "moderation",
+    "description": "[Impedir / Permitir] que los usuarios sin permisos especiales envíen mensajes en el canal actual. Se mantendrán las sobrescrituras de permisos.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "softlockdown",
+      "softlock"
+    ]
+  },
+  {
+    "name": "softmute",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "moderation",
+    "description": "Alternar para evitar que un usuario envíe un mensaje en este canal",
+    "parameters": [
+      "Mención de usuario | ID"
+    ],
+    "examples": [
+      "softmute @user",
+      "softmute 728374657483920192"
+    ]
+  },
+  {
+    "name": "unban",
+    "aliases": [],
+    "clientPermissions": [
+      "BAN_MEMBERS"
+    ],
+    "group": "moderation",
+    "description": "Desbloquea a un usuario de este servidor.",
+    "parameters": [
+      "mención del usuario/ID",
+      "Razón de anulación de la prohibición"
+    ],
+    "examples": [
+      "unban 728374657483920192"
+    ]
+  },
+  {
+    "name": "unmute",
+    "aliases": [
+      "undeafen",
+      "unsilence",
+      "speak"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "moderation",
+    "description": "Activa el silencio de un usuario silenciado de este servidor.",
+    "parameters": [
+      "Mención de usuario | ID"
+    ],
+    "examples": [
+      "unmute @user",
+      "unmute 7283746574829102938"
+    ]
+  },
+  {
+    "name": "clearqueue",
+    "aliases": [
+      "clear-queue"
+    ],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Agregar filtro a la canción actual",
+    "parameters": [],
+    "examples": [
+      "clearqueue"
+    ]
+  },
+  {
+    "name": "filter",
+    "aliases": [],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Cambiar Filtro a la canción actual",
+    "parameters": [
+      "nombre del filtro"
+    ],
+    "examples": [
+      "filter [filter name]"
+    ]
+  },
+  {
+    "name": "filters",
+    "aliases": [],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Check all filters",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "filters"
+    ]
+  },
+  {
+    "name": "loop",
+    "aliases": [
+      "l"
+    ],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Alternar bucle del sistema de música de Tsukasa",
+    "parameters": [],
+    "examples": [
+      "loop"
+    ]
+  },
+  {
+    "name": "nowplaying",
+    "aliases": [
+      "np"
+    ],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Muestra la música que se está reproduciendo actualmente",
+    "parameters": [],
+    "examples": [
+      "nowplaying"
+    ]
+  },
+  {
+    "name": "pause",
+    "aliases": [],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Pausar la reproducción de música actual",
+    "parameters": [],
+    "examples": [
+      "pause"
+    ]
+  },
+  {
+    "name": "play",
+    "aliases": [
+      "p"
+    ],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Reproduce canciones de Soundcloud, Spotify o Youtube",
+    "parameters": [
+      "Nombre de la canción o URL de la canción o lista de reproducción"
+    ],
+    "examples": [
+      "play Why by Sabrina Carpenter",
+      "play https://www.youtube.com/watch?v=fhH4pbRJh0k"
+    ]
+  },
+  {
+    "name": "queue",
+    "aliases": [
+      "q"
+    ],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Mostrar la cola de las canciones",
+    "parameters": [],
+    "examples": [
+      "queue"
+    ]
+  },
+  {
+    "name": "resume",
+    "aliases": [],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Reanudar el reproductor de pausa",
+    "parameters": [
+      "Nombre de la canción o URL de la canción"
+    ],
+    "examples": [
+      "Resume"
+    ]
+  },
+  {
+    "name": "shuffle",
+    "aliases": [],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Baraja la cola",
+    "parameters": [],
+    "examples": [
+      "shuffle"
+    ]
+  },
+  {
+    "name": "skip",
+    "aliases": [],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Omitir la canción que se está reproduciendo actualmente",
+    "parameters": [],
+    "examples": [
+      "skip"
+    ]
+  },
+  {
+    "name": "stop",
+    "aliases": [],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Para la música",
+    "parameters": [],
+    "examples": [
+      "stop"
+    ]
+  },
+  {
+    "name": "volume",
+    "aliases": [
+      "v"
+    ],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Cambiar el volumen de la música",
+    "parameters": [
+      "volumen"
+    ],
+    "examples": [
+      "volume 50"
+    ]
+  },
+  {
+    "name": "ytsearch",
+    "aliases": [
+      "search"
+    ],
+    "clientPermissions": [],
+    "group": "music",
+    "description": "Buscar musica",
+    "parameters": [
+      "Nombre de la canción"
+    ],
+    "examples": [
+      "ytsearch Why Sabrina Carpenter"
+    ]
+  },
+  {
+    "name": "addcredits",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "owner",
+    "description": "¡Agregue créditos a los usuarios! ¡Agregue un signo negativo para quitar créditos de los usuarios!",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "addcredits @user 1000"
+    ]
+  },
+  {
+    "name": "cleanup",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "owner",
+    "description": "Elimina todo el anime terminado del programador anilista. Ejecútelo regularmente una vez cada 4 meses para reducir el desorden de ID en los datos de la lista de seguimiento.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "cleanup"
+    ]
+  },
+  {
+    "name": "eval",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "owner",
+    "description": "Evaluar Javascript arbitrario",
+    "parameters": [
+      "Javascript Code"
+    ],
+    "examples": [
+      "eval 1+1"
+    ]
+  },
+  {
+    "name": "fleave",
+    "aliases": [
+      "forceleave",
+      "leaveguild",
+      "removeguild",
+      "leaveserver"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "owner",
+    "description": "Obligar a Tsukasa a dejar un servidor",
+    "parameters": [
+      "server ID",
+      "Razón"
+    ],
+    "examples": [
+      "fleave 728374657483920374"
+    ]
+  },
+  {
+    "name": "reload",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "owner",
+    "description": "Recarga un comando",
+    "parameters": [
+      "command name/alias"
+    ],
+    "examples": [
+      "reload anime"
+    ]
+  },
+  {
+    "name": "disableanisched",
+    "aliases": [
+      "anischedoff"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Deshabilite la función anisched para este servidor",
+    "parameters": [],
+    "examples": [
+      "disableanisched",
+      "anischedoff"
+    ]
+  },
+  {
+    "name": "goodbyetoggle",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Active y desactive `Locutor de miembro saliente `.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "goodbyetoggle"
+    ]
+  },
+  {
+    "name": "setanischedch",
+    "aliases": [
+      "setanischedulechannel",
+      "setanischedulech",
+      "setanischedchannel"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "¿Dónde publicaré el anuncio del anime recientemente emitido?",
+    "parameters": [
+      "ID de canal / mención"
+    ],
+    "examples": [
+      "setanischedch #anime-updates",
+      "setanischedulech 728394059683726123"
+    ]
+  },
+  {
+    "name": "setgoodbyech",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Configura el canal de despedida",
+    "parameters": [
+      "ID de canal / mención"
+    ],
+    "examples": [
+      "setgoodbyech #member-leaves",
+      "setgoodbyech 728374657482937465"
+    ]
+  },
+  {
+    "name": "setgoodbyemsg",
+    "aliases": [
+      "sgm"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Configure el mensaje de despedida. Admite incrustaciones! [Obtenga información sobre cómo configurar su anunciador de miembro saliente]",
+    "parameters": [
+      "opciones",
+      "otros parámetros"
+    ],
+    "examples": [
+      "setgoodbyemsg default",
+      "setgoodbyemsg embed=true",
+      "setgoodbyemsg embed=set -author=image:[ <url> ]"
+    ]
+  },
+  {
+    "name": "setmute",
+    "aliases": [
+      "setmuterole"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Configure la función de silencio.",
+    "parameters": [
+      "Rol <ID / Mención / Nombre>"
+    ],
+    "examples": [
+      "setmute @muted",
+      "setmute 73847566859304855",
+      "setmute muted"
+    ]
+  },
+  {
+    "name": "setprefix",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Configure un prefijo personalizado para este servidor.",
+    "parameters": [
+      "prefix"
+    ],
+    "examples": [
+      "setprefix ?"
+    ]
+  },
+  {
+    "name": "setsuggestch",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Configurar el canal de sugerencias",
+    "parameters": [
+      "ID de canal / mención"
+    ],
+    "examples": [
+      "setsuggestch 6273849506948347573",
+      "setsuggestch #suggestions"
+    ]
+  },
+  {
+    "name": "setwelcomech",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Configurar el canal de bienvenida",
+    "parameters": [
+      "ID de canal / mención"
+    ],
+    "examples": [
+      "setwelcomech 72838485961627384",
+      "setwelcomech #member-joins"
+    ]
+  },
+  {
+    "name": "setwelcomemsg",
+    "aliases": [
+      "swm"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Configure el mensaje de bienvenida. Admite incrustaciones! [Aprenda a configurar su mensaje de bienvenida]",
+    "parameters": [
+      "opciones",
+      "otros parámetros"
+    ],
+    "examples": [
+      "setwelcomemsg default",
+      "setwelcomemsg embed=true",
+      "setwelcomemsg embed=set -author=image:[ <url> ]"
+    ]
+  },
+  {
+    "name": "togglevotenotif",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Activa o desactiva la notificación de tu voto",
+    "parameters": [],
+    "examples": []
+  },
+  {
+    "name": "userxpreset",
+    "aliases": [
+      "resetuserxp",
+      "resetxpuser"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Restablece el xp de un usuario en particular en este servidor.",
+    "parameters": [
+      "Mención / ID de usuario"
+    ],
+    "examples": [
+      "userxpreset @user",
+      "resetuserxp 782939405931123456"
+    ]
+  },
+  {
+    "name": "watch",
+    "aliases": [
+      "anischedadd",
+      "anischedwatch"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Adds a new anime to watch for new episodes of. You may provide an <:anilist:767062314121035806>AniList entry link or a <:mal:767062339177676800>MyAnimeList link. Supports multiple ids/links",
+    "parameters": [
+      "Anilist/Mal link"
+    ],
+    "examples": [
+      "watch https://myanimelist.net/anime/45678",
+      "anischedadd https://anilist.co/anime/10778"
+    ]
+  },
+  {
+    "name": "welcometoggle",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Active y desactive el  `Member Greeter `.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "welcometoggle"
+    ]
+  },
+  {
+    "name": "xpenable",
+    "aliases": [
+      "enablexp",
+      "enablexpon",
+      "xpenableon"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Habilite la recopilación de XP en los canales mencionados ** Deshabilitados **",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "xpenable"
+    ]
+  },
+  {
+    "name": "xpexcempt",
+    "aliases": [
+      "excemptxp",
+      "disablexpon",
+      "xpdisableon"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Deshabilitar la recopilación de XP en los canales mencionados",
+    "parameters": [
+      "ID de canal / mención"
+    ],
+    "examples": [
+      "xpexcempt 728374657483920192",
+      "disablexpon #spam"
+    ]
+  },
+  {
+    "name": "xpreset",
+    "aliases": [
+      "resetxp",
+      "resetserverxp"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "setup",
+    "description": "Restablece el xp de todos los usuarios de este servidor.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "xpreset"
+    ]
+  },
+  {
+    "name": "xptoggle",
+    "aliases": [
+      "togglexp"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "setup",
+    "description": "Activar / desactivar el sistema xp para el servidor.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "xptoggle"
+    ]
+  },
+  {
+    "name": "bal",
+    "aliases": [
+      "balance",
+      "credits"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "social",
+    "description": "Revisa tu billetera, ¿cuánto has ganado?",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "bal",
+      "balance",
+      "credits"
+    ]
+  },
+  {
+    "name": "bank",
+    "aliases": [
+      "registerbank"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "Comience a almacenar sus créditos en el banco. Obligatorio porque la capacidad máxima de la billetera es 50000.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "bank",
+      "registerbank"
+    ]
+  },
+  {
+    "name": "beg",
+    "aliases": [
+      "plead",
+      "gimme"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "¿Quieres ganar dinero un poco más? ¿Por qué no intentas mendigar? Quizás alguien te dé.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "beg",
+      "plead",
+      "gimme"
+    ]
+  },
+  {
+    "name": "bet",
+    "aliases": [
+      "gamble"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "Confíe en el destino para aumentar su equilibrio ... o reducirlo.",
+    "parameters": [
+      "Monto"
+    ],
+    "examples": [
+      "bet 5000",
+      "gamble 500"
+    ]
+  },
+  {
+    "name": "buy",
+    "aliases": [],
+    "clientPermissions": [
+      "MANAGE_MESSAGES"
+    ],
+    "group": "social",
+    "description": "Compruebe lo que puede comprar en la tienda.",
+    "parameters": [
+      "ID del artículo",
+      "Monto"
+    ],
+    "examples": [
+      "buy 10",
+      "buy 18 2"
+    ]
+  },
+  {
+    "name": "creditslb",
+    "aliases": [
+      "richlb",
+      "richleaderboard",
+      "creditsleaderboard"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "social",
+    "description": "Muestra los principales beneficiarios de crédito de este servidor.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "creditslb",
+      "richlb"
+    ]
+  },
+  {
+    "name": "daily",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "Recupera tu recompensa diaria <3",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "daily"
+    ]
+  },
+  {
+    "name": "deleteitem",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "Elimina un elemento de su propiedad.",
+    "parameters": [
+      "ID del artículo",
+      "Monto"
+    ],
+    "examples": [
+      "deleteitem 10",
+      "deleteitem 18 2"
+    ]
+  },
+  {
+    "name": "deposit",
+    "aliases": [
+      "dep"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "¡Deposite sus créditos para salvaguardarlo!",
+    "parameters": [
+      "Amount"
+    ],
+    "examples": [
+      "deposit 10000",
+      "dep all"
+    ]
+  },
+  {
+    "name": "find",
+    "aliases": [
+      "search"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "¡Puedes encontrar créditos ocultos en tu entorno si lo intentas!",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "find",
+      "search"
+    ]
+  },
+  {
+    "name": "game",
+    "aliases": [],
+    "clientPermissions": [
+      "EMBED_LINKS",
+      "ATTACH_FILES"
+    ],
+    "group": "social",
+    "description": "Juega algunos juegos para ganar créditos.",
+    "parameters": [
+      "título del juego"
+    ],
+    "examples": [
+      "game captcha"
+    ]
+  },
+  {
+    "name": "gift",
+    "aliases": [
+      "transferitem",
+      "itemtransfer"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "Regale algunos de los artículos que posee a un amigo.",
+    "parameters": [
+      "ID de usuario / mención",
+      "ID del artículo",
+      "Monto"
+    ],
+    "examples": [
+      "gift @user 10 2",
+      "transferitem 756475746465746576 21",
+      "itemtransfer @user 12"
+    ]
+  },
+  {
+    "name": "inventory",
+    "aliases": [
+      "inv"
+    ],
+    "clientPermissions": [
+      "MANAGE_MESSAGES"
+    ],
+    "group": "social",
+    "description": "Revise sus artículos.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "inventory",
+      "inv"
+    ]
+  },
+  {
+    "name": "leaderboard",
+    "aliases": [
+      "lb",
+      "topxp"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "social",
+    "description": "Muestra los mayores ingresos de XP para este servidor",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "leaderboard",
+      "lb",
+      "topxp"
+    ]
+  },
+  {
+    "name": "market",
+    "aliases": [],
+    "clientPermissions": [
+      "MANAGE_MESSAGES"
+    ],
+    "group": "social",
+    "description": "Compruebe lo que puede comprar en la tienda.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "market"
+    ]
+  },
+  {
+    "name": "nonxpchannels",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "Ver que canales no dan xp",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "nonxpchannels"
+    ]
+  },
+  {
+    "name": "previewitem",
+    "aliases": [
+      "viewitem"
+    ],
+    "clientPermissions": [
+      "MANAGE_MESSAGES",
+      "ATTACH_FILES"
+    ],
+    "group": "social",
+    "description": "Compruebe lo que puede comprar en la tienda.",
+    "parameters": [
+      "item ID"
+    ],
+    "examples": [
+      "previewitem 13",
+      "viewitem 4"
+    ]
+  },
+  {
+    "name": "profile",
+    "aliases": [
+      "rank",
+      "lvl",
+      "xp",
+      "level"
+    ],
+    "clientPermissions": [
+      "ATTACH_FILES"
+    ],
+    "group": "social",
+    "description": "Muestra el XP, el nivel, el rango y otros detalles actuales de un usuario.",
+    "parameters": [
+      "User Mention/ID"
+    ],
+    "examples": [
+      "profile",
+      "rank @user",
+      "lvl 78475628394857374"
+    ]
+  },
+  {
+    "name": "register",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "Empiece a ganar créditos. ¡Regístrese para realizar un seguimiento de sus créditos ganados!",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "register"
+    ]
+  },
+  {
+    "name": "resumestreak",
+    "aliases": [
+      "rs"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "Reanude su racha si el tiempo de inactividad informado provocó un reinicio de la racha.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "resumestreak <message PL / ID>"
+    ]
+  },
+  {
+    "name": "sell",
+    "aliases": [],
+    "clientPermissions": [
+      "MANAGE_MESSAGES"
+    ],
+    "group": "social",
+    "description": "Vende algunos de tus artículos en la tienda.",
+    "parameters": [
+      "item ID",
+      "amount"
+    ],
+    "examples": [
+      "sell 7 2",
+      "sell 18"
+    ]
+  },
+  {
+    "name": "setbio",
+    "aliases": [],
+    "clientPermissions": [],
+    "group": "social",
+    "description": "Establece la biografía de perfil para su tarjeta de perfil.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "setbio The coolest person in town"
+    ]
+  },
+  {
+    "name": "setbirthday",
+    "aliases": [],
+    "clientPermissions": [],
+    "group": "social",
+    "description": "Establece el cumpleaños del perfil para su tarjeta de perfil.",
+    "parameters": [
+      "Date <DD-MM format>"
+    ],
+    "examples": [
+      "setbirthday 02-12"
+    ]
+  },
+  {
+    "name": "setcolor",
+    "aliases": [],
+    "clientPermissions": [],
+    "group": "social",
+    "description": "Establece el color de su tarjeta de perfil.",
+    "parameters": [
+      "hex code"
+    ],
+    "examples": [
+      "setcolor #e567da"
+    ]
+  },
+  {
+    "name": "tip",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "¡Da propina a tus amigos!",
+    "parameters": [
+      "User Mention/ID"
+    ],
+    "examples": [
+      "tip @user",
+      "tip 78374756574839348"
+    ]
+  },
+  {
+    "name": "transfer",
+    "aliases": [
+      "give"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "¡Transfiere algunos de tus créditos a tus amigos!",
+    "parameters": [
+      "User ID/Mention",
+      "Amount"
+    ],
+    "examples": [
+      "transfer @user 5000",
+      "transfer 76859403847563546 10000"
+    ]
+  },
+  {
+    "name": "unequip",
+    "aliases": [],
+    "clientPermissions": [
+      "MANAGE_MESSAGES"
+    ],
+    "group": "social",
+    "description": "Desequipa cierto artículo.",
+    "parameters": [
+      "item type"
+    ],
+    "examples": [
+      "unequip wreath",
+      "unequip background"
+    ]
+  },
+  {
+    "name": "use",
+    "aliases": [
+      "equip"
+    ],
+    "clientPermissions": [
+      "MANAGE_MESSAGES"
+    ],
+    "group": "social",
+    "description": "Equipa un artículo.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "equip 67",
+      "use 15"
+    ]
+  },
+  {
+    "name": "withdraw",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "social",
+    "description": "Retire parte de su dinero del banco.",
+    "parameters": [
+      "Amount"
+    ],
+    "examples": [
+      "withdraw 17000",
+      "withdraw all"
+    ]
+  },
+  {
+    "name": "avatar",
+    "aliases": [
+      "av",
+      "pfp",
+      "displayprofile"
+    ],
+    "clientPermissions": [
+      "EMBED_LINKS"
+    ],
+    "group": "utility",
+    "description": "Muestra el avatar del usuario proporcionado o de usted mismo.",
+    "parameters": [
+      "User Mention / ID"
+    ],
+    "examples": [
+      "avatar",
+      "av @user",
+      "pfp 728394857686950485"
+    ]
+  },
+  {
+    "name": "color",
+    "aliases": [
+      "colour",
+      "hex"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "utility",
+    "description": "Muestra un color aleatorio o una vista previa del color dado.",
+    "parameters": [
+      "hex code"
+    ],
+    "examples": [
+      "color",
+      "color #ffffff"
+    ]
+  },
+  {
+    "name": "define",
+    "aliases": [
+      "urban",
+      "ud"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "utility",
+    "description": "Busca su consulta en Urban Dictionary. \n Nota: Usar esto en un canal nsfw deshabilita la función de filtro de palabras soeces.",
+    "parameters": [
+      "search query"
+    ],
+    "examples": [
+      "define",
+      "urban anime"
+    ]
+  },
+  {
+    "name": "emoji",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "utility",
+    "description": "Sin descripción del comando",
+    "parameters": [
+      "emoji"
+    ],
+    "examples": [
+      "emoji <emoji>"
+    ]
+  },
+  {
+    "name": "jisho",
+    "aliases": [
+      "weebify",
+      "kanji",
+      "nipponify"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "utility",
+    "description": "¡Busca palabras japonesas y kanji en Jisho!",
+    "parameters": [
+      "word <kana/romaji>"
+    ],
+    "examples": [
+      "jisho nani",
+      "nipponify oyasumi",
+      "weebify wakarimashita"
+    ]
+  },
+  {
+    "name": "listrole",
+    "aliases": [
+      "roles"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "utility",
+    "description": "Muestra en la lista todos los roles que tiene este servidor.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "listrole",
+      "roles"
+    ]
+  },
+  {
+    "name": "lyrics",
+    "aliases": [
+      "ly"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "utility",
+    "description": "Busca información sobre la letra de una canción de GeniuslLyrics o Kimi no Sei, si no se proporciona ninguna consulta.",
+    "parameters": [
+      "Search Query"
+    ],
+    "examples": [
+      "lyrics kimi no sei",
+      "lyrics fukashigi no karte"
+    ]
+  },
+  {
+    "name": "permissionsfor",
+    "aliases": [
+      "permsfor"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "utility",
+    "description": "Enumere los permisos del servidor del usuario mencionado o el ID proporcionado",
+    "parameters": [
+      "User ID/Mention"
+    ],
+    "examples": [
+      "permissionsfor @user",
+      "permsfor 728394857675849399"
+    ]
+  },
+  {
+    "name": "reddit",
+    "aliases": [
+      "rdt",
+      "subreddit",
+      "redd.it",
+      "fetchreddit"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "utility",
+    "description": "Obtener una imagen aleatoria del subreddit proporcionado",
+    "parameters": [
+      "subreddit"
+    ],
+    "examples": [
+      "reddit churchofTsukasa",
+      "rdt seishunbutayarou"
+    ]
+  },
+  {
+    "name": "serverinfo",
+    "aliases": [
+      "guild",
+      "server",
+      "serverstat",
+      "serverstats",
+      "guildstat",
+      "guildstats"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "utility",
+    "description": "Muestra la información básica del servidor.",
+    "parameters": "Sin parametros requeridos",
+    "examples": [
+      "serverinfo"
+    ]
+  },
+  {
+    "name": "steam",
+    "aliases": [],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "utility",
+    "description": "Busca juegos en [Steam](https://store.steampowered.com/'Steam Homepage ') o en el club de literatura Doki-doki, si no se proporciona ninguna consulta.",
+    "parameters": [
+      "Consulta de busqueda"
+    ],
+    "examples": [
+      "steam dota2",
+      "steam"
+    ]
+  },
+  {
+    "name": "userinfo",
+    "aliases": [
+      "whois"
+    ],
+    "clientPermissions": "Sin permisos requeridos",
+    "group": "utility",
+    "description": "Obtener información del usuario (a partir del 20 de mayo de 2020: la función global se eliminó debido a una posible violación de Discord ToS).",
+    "parameters": [
+      "User Mention/ID"
+    ],
+    "examples": [
+      "userinfo @user",
+      "whois 75869504958675123"
+    ]
+  }
+]
